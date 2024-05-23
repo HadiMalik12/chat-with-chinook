@@ -2,7 +2,7 @@
 
 ## Description
 
-The Chinook dataset is a sample database that represents a digital media store. The Jupyter Notebook in this repository demonstrates how to connect to a MySQL server, run SQL queries on the Chinook database, visualize data using Matplotlib, and create a chatbot using LangChain and OpenAI's LLM.
+The Chinook dataset is a sample database that represents a digital media store. The Python code in the Jupyter Notebook connects to a MySQL server, runs SQL queries on the Chinook database, visualizes data using Matplotlib, and creates a chatbot using LangChain and OpenAI's LLM.
 
 ## Dependencies
 
