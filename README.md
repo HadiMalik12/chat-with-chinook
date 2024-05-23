@@ -1,4 +1,4 @@
-# Chinook Data Analysis and Chatbot
+# chat-with-chinook
 
 ## Description
 
