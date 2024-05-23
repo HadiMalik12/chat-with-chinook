@@ -16,7 +16,7 @@ To run the notebook, you'll need the following dependencies:
 - MySQL connector for Python
 - Matplotlib
 - LangChain
-- OpenAI's LLM
+- API key OpenAI's LLM 
 
 Install the necessary Python packages using pip:
 
