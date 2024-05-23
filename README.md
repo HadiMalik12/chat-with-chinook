@@ -2,15 +2,6 @@
 
 This repository contains a Jupyter Notebook (`chatWithChinook.ipynb`) that demonstrates data analysis on the Chinook sample database using Python and MySQL. Additionally, it includes the integration of a chatbot using LangChain and OpenAI's LLM (Large Language Model).
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Dependencies](#dependencies)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Chinook dataset is a sample database that represents a digital media store. The Jupyter Notebook in this repository demonstrates how to connect to a MySQL server, run SQL queries on the Chinook database, visualize data using Matplotlib, and create a chatbot using LangChain and OpenAI's LLM.
